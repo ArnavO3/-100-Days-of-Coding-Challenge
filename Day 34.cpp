@@ -1,4 +1,5 @@
 // Question link: https://leetcode.com/problems/powx-n/description/
+
 //Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
 
 class Solution {
