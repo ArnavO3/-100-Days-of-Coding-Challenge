@@ -14,6 +14,6 @@ public:
                 }
             }
         }
-        return {};
+        return {};    //return empty array if no pair found.
     }
 };
